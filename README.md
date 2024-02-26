@@ -7,7 +7,7 @@
 
 ## Directory Structure
 
-- `gesture_recognition.py`: Main Python script for gesture recognition.
+- `mudra_python.py`: Main Python script for gesture recognition.
 - `adi_mudra/`: Directory containing images for the Adi Mudra gesture.
 - `vayu_mudra/`: Directory containing images for the Vayu Mudra gesture.
 - `apan_mudra/`: Directory containing images for the Apan Mudra gesture.
